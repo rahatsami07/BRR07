@@ -1,0 +1,11 @@
+div {
+    background-color: #fb5200;
+    color: #fff;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    border: 1px solid #fb5200;
+    border-radius: 50px;
+    margin: auto;
+    font-family: arial;
+}
